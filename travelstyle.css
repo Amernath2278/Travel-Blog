@@ -1,0 +1,447 @@
+*{
+    font-family: 'Croissant One', cursive;
+   
+}
+
+span{
+    color: rgb(255, 153, 0);
+}
+
+#head :hover{
+    color: rgb(255, 153, 0);
+transition: all 0.8s;
+transition: all 1.8s;
+transform: scale(1.1) rotate(360deg);
+}
+
+
+
+
+
+
+
+
+
+.inner{
+    position: absolute;
+    top: 43%;
+    left: 33%;
+    text-shadow: 3px 4px 8px #363636;
+    color: aliceblue;
+
+}
+
+
+#hd{
+    position: absolute;
+    top: 0px;
+    text-align: center;
+    color: aliceblue;
+    margin: -30px;
+    margin-left: 30px;
+    
+
+}
+
+#hd a{
+    padding: 55px;
+    margin: 0%;
+}
+
+#txt{
+    font-size:xxx-large;
+}
+#txtt{
+    font-size:xxx-large;
+    text-align: center;
+}
+/* button */
+#button1{
+    position: absolute;
+    top: 70%;
+    left: 33%;
+    height: 60px;
+    width: 220px;
+    color: rgb(255, 153, 0);
+    border: 1px solid orange;
+    border-radius: 300px;
+    background-color: transparent;
+
+}
+
+#button1:hover{
+    background-color: rgb(255, 153, 0);
+    color: #fff;
+    transition: all 0.8s;
+    transform: scale(1.3);
+
+}
+
+#button2{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    height: 60px;
+    width: 220px;
+    color: orange;
+    border: 1px solid orange;
+    border-radius: 300px;
+    background-color: transparent;
+
+}
+
+#button2:hover{
+    background-color: rgb(255, 153, 0);
+    color: #fff;
+    transition: all 0.8s;
+    transform: scale(1.3);
+
+}
+
+
+#button3{
+   
+    height: 50px;
+    width: 200px;
+    color: orange;
+    border: 1px solid orange;
+    border-radius: 300px;
+    background-color: transparent;
+   
+
+}
+
+#button3:hover{
+    background-color: rgb(255, 153, 0);
+    color: #fff;
+    transition: all 0.8s;
+    transform: scale(1.1);
+
+}
+
+#journey{
+    margin-left: 250px;
+}
+
+#journey2{
+    margin-left: 250px;
+}
+
+#community {
+
+ position: absolute;
+   margin-top: -350px;
+    left: 33%;
+    text-shadow: 3px 4px 8px #363636;
+    color: aliceblue;
+    font-size: xx-large;
+    
+
+}
+.comm img{
+     width: 100%;
+     height: 550px;
+}
+
+#community button{
+    margin-left: 200px;
+    height: 50px;
+    width: 220px;
+    color: rgb(255, 153, 0);
+    border: 1px solid rgb(255, 153, 0);
+    border-radius: 300px;
+    background-color: transparent;
+}
+
+#community button:hover{
+
+ background-color: rgb(255, 153, 0);
+    color: #fff;
+    transition: all 0.8s;
+    transform: scale(1.1);
+
+}
+
+.row1{
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+    
+}
+
+
+.row1 :hover{
+    filter:opacity(92%);
+}
+
+.row1 h4:hover{
+    color: rgb(255, 153, 0) ;
+
+
+}
+
+.col{
+    margin: 30px;
+   
+}
+
+.col img{
+    border-radius: 50px;
+    width: 500px;
+    height: 350px;
+}
+
+#readings{
+    background-color: rgb(235, 235, 235);
+}
+
+
+.row2{
+    display: flex;
+}
+
+.row2 img{
+    width: 350px;
+    height: 300px;
+    margin: 50px;
+    border-radius: 60px;
+  
+    
+}
+.col2{
+    margin: 10px;
+}
+.roww{
+    display: flex;
+    margin-left: 150px;
+    
+    
+    
+   
+}
+.roww a{
+    text-decoration: none;
+    color: #363636;
+}
+.roww :hover{
+    filter:opacity(88%);
+    color: rgb(255, 153, 0) ;
+}
+
+.roww img{
+    width: 100%;
+    height: 100%;
+}
+.card{
+    margin: 50px;
+    align-items: center;
+    
+
+}
+
+/* travel tips */
+
+#tips{
+    display: flex;
+   color: #fff;
+    
+}
+
+#tipps{
+    display: flex;
+   color: #fff;
+}
+
+
+
+#tips1 img{
+    height: 600px;
+    width: 800px;
+    border-radius: 60px;
+    filter:brightness(60%);
+    
+}
+#tips1 :hover{
+   filter:brightness(80%);
+     
+}
+#tips1 h2{
+    position: absolute;
+    margin-top: -150px;
+    left: 7%;
+}
+
+
+#tips2 img{
+    height: 300px;
+    width: 350px;
+    border-radius: 60px;
+    filter:brightness(60%);
+   
+
+}
+#tips2 :hover{
+    filter:brightness(90%);
+    
+}
+#tips2 h6{
+    position: absolute;
+    margin-top: -80px;
+   margin-left: 20px;
+}
+
+
+#tips11 img{
+    height: 600px;
+    width: 800px;
+    border-radius: 60px;
+    margin-top: -360px;
+    filter:brightness(60%);
+}
+#tips11  :hover{
+    filter:brightness(90%);
+   
+}
+
+#tips11 h2{
+    position: absolute;
+    margin-top: -150px;
+    margin-left: 50px;
+}
+
+#tips22 img{
+    height: 300px;
+    width: 350px;
+    border-radius: 60px;
+    margin-top: -50px;
+    filter:brightness(60%);
+    
+
+}
+
+#tips22 h6{
+    position: absolute;
+    margin-top: -90px;
+    margin-left: 10px;
+    
+ 
+  
+}
+
+#tips22 :hover{
+    filter:brightness(90%);
+    color: #fff;
+}
+
+/* destination guides */
+
+#desrow{
+    display: flex;
+}
+
+#desrow img{
+  width: 400px;
+  height: 250px;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 35px;
+ margin-left: 50px;
+}
+
+.des1 h5 {
+    width: 400px;
+    margin-left: 70px;
+    
+}
+
+.des2 h5 {
+    width: 400px;
+    margin-left: 70px;
+}
+
+.des3 h5 {
+    width: 400px;
+    margin-left: 70px;
+}
+
+.des4 h5 {
+    width: 400px;
+    margin-left: 70px;
+}
+#desrow button{
+    margin-left: 70px;
+    width: 150px;
+    height: 40px;
+    background-color: transparent;
+    border: 1px solid orange;
+    border-color: orange;
+    border-radius: 60px;
+  
+    
+}
+
+#desrow button:hover{
+   transition: 0.8s;
+   background-color: orange;
+   color: #fff;
+}
+#desrow img{
+    filter: brightness(70%);
+}
+
+#desrow img:hover{
+    filter: brightness(100%);
+}
+
+#desrow :hover{
+    color: orange;
+}
+/* inbox */
+
+.inbox{
+    display: flex;
+    background-color: rgb(152, 247, 89);
+    height: 350px;
+}
+
+.inbox input{
+    height: 60px;
+    width: 200px;
+    border-radius: 40px;
+    margin-top: 60px;
+    margin-left: 20px;
+    border-color: transparent;
+    
+}
+
+.inbox button{
+    height: 60px;
+    width: 200px;
+    border-radius: 40px;
+    background-color: orange;
+    border-color: transparent;
+    margin-top: 60px;
+    margin-left: 40px;
+}
+
+.inbox button:hover{
+    transition: all 0.8s;
+    transform: scale(1.2);
+}
+
+#atag a{
+
+    text-decoration: none;
+}
+
+#btag a{
+
+    text-decoration: none;
+}
+
+
+
+
+
+
+
